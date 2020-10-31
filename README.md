@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/eqba1/all-about-linux">
-    <img src="https://raw.githubusercontent.com/eqba1/all-about-linux/logo.jpg" alt="Become a Linux Master" width=230 height=150>
+    <img src="https://github.com/eqba1/all-about-linux/blob/main/img/logo.jpg?raw=true" alt="all aobut linux" width=230 height=150>
   </a>
   <h2 align="center">All About Linux</h2>
 
